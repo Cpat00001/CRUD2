@@ -1,0 +1,126 @@
+/* ################### register page ############### */
+.reg1{
+    height: 150px;
+    background-image:linear-gradient(to right,black,rgb(4, 4, 73),rgb(77, 16, 158),rgb(81, 80, 143),rgb(50, 96, 182),rgb(49, 48, 47))
+}
+.Register1Logo{
+  margin-top:20px;
+}
+.Register1Logo2{
+    background-image:url("https://i.ytimg.com/vi/rb8Y38eilRM/maxresdefault.jpg");
+    height:100%;
+    width:100%;
+    height:70px
+}
+.Register1Text1{
+    color:rgb(194, 193, 193);
+    font-weight:900;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    margin-left:5px;
+}
+.Register1Text2{
+    color: white;
+    font-weight:600;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    margin-left:5px;
+}
+
+/* ############ register2 ########################## */
+.register2row1{
+    margin-top:50px;
+}
+.register2row2{
+    max-width:500px;
+    padding:15px;
+}
+.register2row3{
+    margin-top:5px;
+}
+/* ############# button ########################### */
+.registerButton{
+    min-height:50px;
+    font-size:20px;
+    background-color:rgb(153, 214, 93);
+    color:white;
+    border:1px solid green;
+    border-radius:5px;
+    width:100%;
+}
+.loginButton{
+    min-height:50px;
+    font-size:20px;
+    background-color:rgba(0, 113, 123, 0.1) !important ;
+    color:#00717b !important;
+    border-color:#00717b !important;
+}
+.loginButton2{
+    min-height:50px;
+    font-size:20px;
+    background-color:rgba(116, 21, 21, 0.7) !important ;
+    color:#d8dfe0 !important;
+    border-color:#1f0303 !important;
+}
+/* ############# register3 ######################## */
+.register3row1{
+    margin-top:50px;
+    background-color: #F0F0F0;
+    min-height:550px;
+    height:auto;
+    border-top: 5px solid rgb(192, 188, 188);
+}
+.register3div1{
+    /* border:1px solid green; */
+    padding:15px;
+    margin-top:20px;
+    min-height:200px;
+    box-shadow: 0px 0px 0px 1px #c7c7c7;
+    border-radius: 3px !important;
+    padding: 10px;
+    background-color: #dedede;
+}
+.register3text1{
+    color:#00717b;
+    font-size:1.2em;
+    font-weight:400;
+    float:left;
+    margin-left:10px;
+}
+.register3text2{
+    color: #333333;
+    font-size: 0.9em;
+    line-height: 1.8em;
+    float:left;
+    margin-left:20px;
+}
+.register3text3{
+    color: #333333;
+    font-size: 0.9em;
+    line-height: 1.8em;
+    float:left;
+    margin:20px;
+    margin-left:20px;
+}
+/* ########## register 4 ########################### */
+.register4row1{
+    background-color:grey;
+    min-height:50px;
+}
+/* ########## register 4 ########################### */
+.register4row2{
+    background-color:rgb(65, 64, 64);
+    min-height:50px;
+}
+/* ######## registerForm ########################## */
+.ant-form label{
+    font-size:20px;
+    color:grey;
+}
+.ant-input{
+    border:none;
+    border-bottom:2px solid grey
+}
+.RegisterForm{
+    margin:20px;
+}

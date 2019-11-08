@@ -1,0 +1,16 @@
+.div1P3UserCard{
+    background-color:rgb(137, 194, 135);
+    border:1px solid green;
+    box-shadow: 5px 5px #a4a8a2;
+    margin:5px
+}
+.iconP3UserCard1{
+    margin:2px;
+    font-size:18px;
+    color:blueviolet
+}
+.iconP3UserCard2{
+    margin:2px;
+    font-size:18px;
+    color:red
+}

@@ -18,7 +18,7 @@ class Login1 extends React.Component {
 
     onClickSign(){
         this.setState(state=>({signin:!state.signin}))
-        console.log('SIGNIN CLICKED')
+        //console.log('SIGNIN CLICKED')
     }
     render() {
 
